@@ -1,0 +1,18 @@
+<footer role="contentinfo">
+ 
+  <div
+  {{ if eq .Site.Params.showThemeSwitcher false }}style="display: none;"{{ end }}
+  >
+    <label for="themer">
+      {{ T "dark_theme" }} <input type="checkbox" id="themer" class="vh">
+      <!-- Shows "on" or "off" -->
+      <span aria-hidden="true"></span>
+    </label>
+  </div>
+  {{ with .Site.Params.footer }}
+    {{ . | markdownify }}
+  {{ end }}
+  Written with <a href="https://gohugo.io">Hugo</a>, themed by <a href="https://github.com/zwbetz-gh/cupper-hugo-theme">Cupper</a>,
+  deployed with <a href="https://www.netlify.com">Netlify</a>, built by <a href="https://linkedin.com/in/nadav-kempinski">Nadav</a> with ❤️.
+  <script src="/js/dom-scripts.js"></script>
+</footer>

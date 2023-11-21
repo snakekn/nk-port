@@ -1,0 +1,28 @@
+.image-cycle-link {
+  position: relative;
+  display: inline-block;
+}
+
+.image-cycle-preview {
+  display: none;
+  position: absolute;
+  width: 100%; /* Adjust to your preference */
+  top: 100%;
+  left: 0;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  z-index: 100; /* Ensure it's above other elements */
+}
+
+.image-cycle-link:hover .image-cycle-preview {
+  display: block;
+}
+
+.cycle-image {
+  display: none;
+  max-width: 100%;
+  filter: grayscale(100%);
+}

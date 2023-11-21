@@ -1,0 +1,10 @@
+<!-- layouts/shortcodes/hoverImageLink.html -->
+<a href="{{ .Get "href" }}" class="image-cycle-link">
+  {{ .Get "text" }}
+  <div class="image-cycle-preview">
+    {{ $projectName := .Get "project" }}
+    {{ range index $.Site.Data.projects $projectName }}
+      <img src="/projects/{{ $projectName }}/{{ . }}" alt="Image for {{ $projectName }}" class="cycle-image">
+    {{ end }}
+  </div>
+</a>

@@ -1,0 +1,11 @@
+baseURL = 'localhost:1313'
+languageCode = 'en-us'
+title = 'Nadav Kempinski'
+theme = 'cupper-hugo-theme'
+footer = 'Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).'
+
+[Params]
+    me_img_path = '/me.png'
+    intro = "I’m a 20-something working at the intersection of people and soil to develop climate solutions for a climate crisis."
+    values = "Lifelong learner, curiosity-driven, and described as a 'minimalist maximalist.' You'll understand once you get to know me."
+    learnMore = "Check out my [LinkedIn](https://linkedin.com/in/nadav-kempinski), [personal Substack](https://nadav.substack.com), or [send me an email](mailto:nadavkempinski+web@gmail.com)." 

@@ -1,0 +1,41 @@
+<header class="intro-and-nav" role="banner">
+  <div>
+    <div class="intro">
+      <a
+        class="logo"
+        href="{{ .Site.BaseURL }}"
+        aria-label="{{ .Site.Title }} home page"
+      >
+      {{ with .Site.Params.navTitleText }}
+      <h1>{{ . }}</h1>
+    {{ else }}
+      <img 
+        src="{{ "logo.png" | relURL }}"  
+        alt="{{ .Site.Params.logoAlt | default "Logo" }}"
+      >
+    {{ end }}
+
+        {{ with .Site.Params.intro }} {{ . | markdownify }} {{ end }}
+        <p> </p>
+        {{ with .Site.Params.values }} {{ . | markdownify }} {{ end }}
+        <p> </p>
+        {{ with .Site.Params.learnMore }} {{ . | markdownify }} {{ end }}
+
+      </p>
+    </div>
+    {{ partial "nav.html" . }}
+    {{ if eq .Site.Params.moveFooterToHeader true }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+  </div>
+  <style>
+    .bw-filter {
+        filter: grayscale(100%);
+    }
+    .center-image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+</style>
+</header>
