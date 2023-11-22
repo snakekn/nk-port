@@ -1,26 +1,38 @@
 +++
-title = 'a pill topper schematic for people with tremors'
+title = 'supporting black founders VC with tool automation'
 date = 2023-11-20T21:27:10-08:00
 draft = false
 
 +++
 
-COVID began and I was living at home for most of 2020. My dad had suffered a heart attack at the end of 2019 and was just starting to get used to his pill routine (well, my mom took a pretty active role in making sure he didn't skip or forget about any of his meds).
+Black Operators VC is a venture capital firm built by black founders, for black founders. With a small team, they were looking for ways to reduce their adminstrative tasks to emphasize time spent caring for founders.
 
-I kept noticing my dad would drop his pills, strain to reach down and pick up the small pieces, and try to put the pills back (which would cause him to drop some more). With a bad back and hip, this infuriated me. The pills are so small and easy to swallow he can't get the right amount out! I wanted my dad to flip his bottle over and get the exact amount of pills he needed right into his hand.
+I worked with Antonia (role: Principal) to develop low-cost and low-time tools they could start running with to support the 20+ requests they were receiving for review each week.
 
-I built a bottle topper that poured the right amount of pills per shake, preventing him from having to reach down and hurt his back anymore. After trying various designs, modeling for the fall rate, and interviewing users with tremors, I made a paper version of the design and made it public for anyone to print & use.
+Antonia & I spent some time to review the team's goals, and specifically to understand her experienced pain points:
+- She was requesting companies who found Black Ops for standard information, and didn't want to spend her time here.
+- Many startups didn't meet the VC's basic funding thesis, and wanted to focus on black founders making an impact.
+- Antonia would ask the Managing Partners to review and score companies to determine if they would pass, and she didn't want to manually have to send and tally scorecards.
+- As the company expanded, they were creating new databases to handle new data and they were experencing information segmentation.
 
-![image-20231120215954073](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120215954073.png)
+I built a relational database using Airtable (a low-code database SaaS) to manage their data in one place. 
 
-![image-20231120220119069](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220119069.png)
+Airtable helped by:
+- Automating email sendouts so Antonia could manage her ongoing relationships (rather than her rejected companies).
+- Putting their data first when a teammate enters the page, making it easy to filter through companies and take action on a startup.
+- Sending scorecards to each Partner and tallying the scores, letting Antonia know whether the company should move forward without any calculating on her part.
 
-![image-20231120220421170](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220421170.png)
+![airtable uses automation steps so data can take action on its own.](/projects/blackops/automation.png)
+*automations let the data take action, so nobody has to keep an eye on the data.*
 
-![image-20231120220452811](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220452811.png)
+![an image of the relational database's metadata.](/projects/blackops/database.png)
+*they need to keep lots of data on each startup. relational databases help reduce information overload by sharing data only where it needs to be loaded and seen.*
 
-![I designed the models in SolidWorks and used global variables to produce different caps for different pill bottle and pill sizes](/projects/pills/pill_dimensions.png)
+![the header of a form.](/projects/blackops/form.png)
+*startups would pitch via email before. now, antonia can receive exactly the information she needs to move startups forward from first interaction.*
 
-![I used a 3D pen to make changes to 3D printed models, saving model time & plastic for medium-fidelity trials](/projects/pills/pill_pen.png)
+![the header of a database documentation page.](/projects/blackops/notion.png)
+*a large database makes future edits tricky. i wrote a comprehensive guide to their airtable instance, including references on how to edit tables, automations, and avoid common issues to airtable.*
 
-![a lego-inspired printout for anyone to make their own pill topper for the BRILINTA medication](/projects/pills/pill_lego.png)
+![a table of contents for the documentation.](/projects/blackops/toc.png)
+*the table of contents for the documentation guide on notion.*

@@ -10,17 +10,18 @@
       <h1>{{ . }}</h1>
     {{ else }}
       <img 
-        src="{{ "logo.png" | relURL }}"  
+        src="{{ "logo2.png" | relURL }}"  
         alt="{{ .Site.Params.logoAlt | default "Logo" }}"
-      >
+      ></a>
     {{ end }}
-
+    </div>
+    <div>
+        <p> </p>
         {{ with .Site.Params.intro }} {{ . | markdownify }} {{ end }}
         <p> </p>
         {{ with .Site.Params.values }} {{ . | markdownify }} {{ end }}
         <p> </p>
         {{ with .Site.Params.learnMore }} {{ . | markdownify }} {{ end }}
-
       </p>
     </div>
     {{ partial "nav.html" . }}

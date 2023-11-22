@@ -1,26 +1,40 @@
 +++
-title = 'a pill topper schematic for people with tremors'
+title = 'a texting service to practice introspection & journaling throughout the day'
 date = 2023-11-20T21:27:10-08:00
 draft = false
 
 +++
 
-COVID began and I was living at home for most of 2020. My dad had suffered a heart attack at the end of 2019 and was just starting to get used to his pill routine (well, my mom took a pretty active role in making sure he didn't skip or forget about any of his meds).
+I've been journaling since I was in high school and believe we should all practice some form of introspection. Many people told me they tried & couldn't keep a journaling practice going. I wanted to understand why.
 
-I kept noticing my dad would drop his pills, strain to reach down and pick up the small pieces, and try to put the pills back (which would cause him to drop some more). With a bad back and hip, this infuriated me. The pills are so small and easy to swallow he can't get the right amount out! I wanted my dad to flip his bottle over and get the exact amount of pills he needed right into his hand.
+I learned through qualitative interviews that journaling was hard to keep as a habit. Even with accessible knowledge coming out about practicing strong habits (looking at you, [Atomic Habits](https://jamesclear.com/atomic-habits)), people couldn't make the habit stick. People felt:
+- Tired from trying to sit down and write more than a few words or sentences at a time.
+- The struggle to remember to journal each day.
+- Unsure of what to write about.
 
-I built a bottle topper that poured the right amount of pills per shake, preventing him from having to reach down and hurt his back anymore. After trying various designs, modeling for the fall rate, and interviewing users with tremors, I made a paper version of the design and made it public for anyone to print & use.
+I decided that removing the barrier to entry was needed to give people the push to journal. 
 
-![image-20231120215954073](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120215954073.png)
+I developed journi using low code tools (Airtable, Make, Bubble, Twilio) so people could journal through their texting app. journi would send you reminders and new prompts weekly, to help build the habit. I ran a month-long journal-athon that kept most users journaling each day, and we won the 1st place award at Venture For America's Pitch Competition in Philadelphia for concept, technology and leverage.
 
-![image-20231120220119069](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220119069.png)
+Not many people used it (I didn't market it outside my friends), but it was great to hear people talking about journi in their own conversations and how it impacted their introspective practice.
 
-![image-20231120220421170](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220421170.png)
+### Takeaways
+- Momentum matters. Get a team or a motivation strategy in place.
+- When you're not sure what to build next, get out in front of your audience and learn.
+- You can learn anything given the time and an access to people. Find ways to get focused & in the right room.
+- Users will find new ways of using your service. Be true to yourself while finding ways to keep the idea sustainable.
 
-![image-20231120220452811](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220452811.png)
+![a text conversation with the journi service.](/projects/journi/convo.png)
+*journi allows you to journal by texting. you can journal on the bus, waiting for a friend, or waking up, no matter where you are.*
 
-![I designed the models in SolidWorks and used global variables to produce different caps for different pill bottle and pill sizes](/projects/pills/pill_dimensions.png)
+![text messages reminding the user to journal.](/projects/journi/convo.png)
+*text reminders are sent daily (or depending on the user's preference) to remind users to spend some time being introspective.*
 
-![I used a 3D pen to make changes to 3D printed models, saving model time & plastic for medium-fidelity trials](/projects/pills/pill_pen.png)
+![a graph showing an uptick in users.](/projects/journi/usercount.png)
+*journi wasn't marketed, but popularity among my friends, mostly 20-somethings, picked up over time and hype.*
 
-![a lego-inspired printout for anyone to make their own pill topper for the BRILINTA medication](/projects/pills/pill_lego.png)
+![a graph showing an increase in wordcount](/projects/journi/wordcount.png)
+*more users were progressively sending longer daily journals as they kept using journi, a metric i used for engagement.*
+
+![the journi logo, offering introspection via text.](/projects/journi/logo.png)
+*journi's first homepage, on bubble.*

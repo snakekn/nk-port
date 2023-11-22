@@ -1,26 +1,27 @@
 +++
-title = 'a pill topper schematic for people with tremors'
+title = "a gis map for san diegans to take action on the county's policing budget"
 date = 2023-11-20T21:27:10-08:00
 draft = false
 
 +++
 
-COVID began and I was living at home for most of 2020. My dad had suffered a heart attack at the end of 2019 and was just starting to get used to his pill routine (well, my mom took a pretty active role in making sure he didn't skip or forget about any of his meds).
+Just as BLM protests were hitting their max participation in San Diego during 2020, San Diego's mayor pushed for funding to increase police presence in the county. 
 
-I kept noticing my dad would drop his pills, strain to reach down and pick up the small pieces, and try to put the pills back (which would cause him to drop some more). With a bad back and hip, this infuriated me. The pills are so small and easy to swallow he can't get the right amount out! I wanted my dad to flip his bottle over and get the exact amount of pills he needed right into his hand.
+When my friends and I wanted to tell our representatives we disagreed with the proposed budget, we found it difficult to even find who our councilmember was (by 2023, [the SD website](https://www.sandiego.gov/blog/find-your-council-district) \*just\* received an update to add an interactive map). So I created a GIS tool to:
+- help San Diegans find their councilmember,
+- prompt people to take action with pre-written material about the policing budget.
 
-I built a bottle topper that poured the right amount of pills per shake, preventing him from having to reach down and hurt his back anymore. After trying various designs, modeling for the fall rate, and interviewing users with tremors, I made a paper version of the design and made it public for anyone to print & use.
+We didn't sway the council vote with the ~100 people that took action, but I had the chance to put my GIS & advocacy tools to use on an important cause. San Diego still spends [~$600M](https://www.sandiego.gov/police/about/budget) on policing each year, and [alternative policing strategies](https://www.sandiego.gov/police/services/neighborhood-policing-division) have a long way to go to provide the scope of support needed. This continues to be a pressing issue in our county.
 
-![image-20231120215954073](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120215954073.png)
+### Takeaways
+- Marketing makes and breaks the success of a launch. We should've reached out to local news stations and organizations to take action.
+- Finding high impact levers in complex systems can lead you to using unexpected tools. Generalists can succeed by being quick to learn new skills.
 
-![image-20231120220119069](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220119069.png)
+![a map of san diego, colored by district.](/projects/gis/map.png)
+*users could click on the map or enter their address to find their councilmember.*
 
-![image-20231120220421170](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220421170.png)
+![a facebook post marketing the tool.](/projects/gis/fb.png)
+*we posted across facebook, reddit, and reached out to our personal networks to share the message.*
 
-![image-20231120220452811](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220452811.png)
-
-![I designed the models in SolidWorks and used global variables to produce different caps for different pill bottle and pill sizes](/projects/pills/pill_dimensions.png)
-
-![I used a 3D pen to make changes to 3D printed models, saving model time & plastic for medium-fidelity trials](/projects/pills/pill_pen.png)
-
-![a lego-inspired printout for anyone to make their own pill topper for the BRILINTA medication](/projects/pills/pill_lego.png)
+![a set of instructions is shown once a user clicks on their district.](/projects/gis/instr.png)
+*once a user selects their district, they're told who their councilmember is and given an email template to send about the police budget.*

@@ -1,26 +1,33 @@
 +++
-title = 'a pill topper schematic for people with tremors'
+title = 'an on-car device to reduce air pollution from tire abrasion'
 date = 2023-11-20T21:27:10-08:00
 draft = false
 
 +++
 
-COVID began and I was living at home for most of 2020. My dad had suffered a heart attack at the end of 2019 and was just starting to get used to his pill routine (well, my mom took a pretty active role in making sure he didn't skip or forget about any of his meds).
+As an engineering capstone project during COVID, I wanted to understand how we could reduce the environmental injustices from air pollution. This way, future respiratory diseases wouldn't be as damaging to underrepresented communities (like it is in San Diego, where asthma is 7x higher in 70% Hispanic & 40% under the poverty line Barrio Logan than it is in 82% White & 9% below the poverty line La Jolla).
 
-I kept noticing my dad would drop his pills, strain to reach down and pick up the small pieces, and try to put the pills back (which would cause him to drop some more). With a bad back and hip, this infuriated me. The pills are so small and easy to swallow he can't get the right amount out! I wanted my dad to flip his bottle over and get the exact amount of pills he needed right into his hand.
+I got a team together, won $3,000 in funding, and conducted analytical research on the worst sources of air pollution. We decided to focus on resuspended PM2.5 (particles under 2.5 micrometers large) from tire abrasion. Tires kick up small particles that stay suspended in the air and enter our lungs & the environment. Our design — a pressure-based filtration system near the car's wheelhouse — didn't win any awards, but we demonstrated the importance of solving the tire problem to support community health outcomes.
 
-I built a bottle topper that poured the right amount of pills per shake, preventing him from having to reach down and hurt his back anymore. After trying various designs, modeling for the fall rate, and interviewing users with tremors, I made a paper version of the design and made it public for anyone to print & use.
+**Takeaways:**
+- Testing is everything, so don't be worried about getting it right. You'll figure it out as it happens.
+- Some well-timed back-of-the-envelope analysis can tell you when to cut an idea and when to push forward. It's always worth the 5 minutes it takes to see what's possible.
 
-![image-20231120215954073](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120215954073.png)
 
-![image-20231120220119069](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220119069.png)
+![a low-fidelity image describing the proposed system, along with an overview of materials required.](/projects/caeli/bom.png)
+*the prototype electromechanical system connected to a vacuum & car battery in the back of our car, and was held in place behind the tire.* 
 
-![image-20231120220421170](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220421170.png)
+![filters were taped to the tire's hubcap to see where the most particles could be captured](/projects/caeli/tires.png)
+*a prototype to see where the best filter placement should go near the car's wheelhouse.*
 
-![image-20231120220452811](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220452811.png)
+![a system's view of how the system would interact with it's environment.](/projects/caeli/system.png)
+*our system would intake energy and create drag to capture particulate matter.*
 
-![I designed the models in SolidWorks and used global variables to produce different caps for different pill bottle and pill sizes](/projects/pills/pill_dimensions.png)
+![images of particulate matter on a filter and the processed version for quantitative analysis.](/projects/caeli/processing.png)
+*i learned to use an imaging microscope & processing tools to determine the PM density on each test filter.*
 
-![I used a 3D pen to make changes to 3D printed models, saving model time & plastic for medium-fidelity trials](/projects/pills/pill_pen.png)
+![a design specification of a part for collecting particulate matter from tire abrasion.](/projects/caeli/schVIN.png)
+*a design specification of our inlet nozzle. We printed at home using a 3d printer.*
 
-![a lego-inspired printout for anyone to make their own pill topper for the BRILINTA medication](/projects/pills/pill_lego.png)
+![caeli logo](/projects/caeli/logo.png)
+*our team's logo*

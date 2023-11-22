@@ -19,11 +19,19 @@ With the right tools given to the right people, humanity can find harmony with o
 ### my projects
 - {{< hoverImageLink href="/projects/journi" text="a texting service for easy introspection" project="journi" >}}
 - {{< hoverImageLink href="/projects/pills" text="a pill topper for tremor patients" project="pills" >}}
-- {{< hoverImageLink href="/projects/acuity" text="reducing administrative work using scheduling plugin" project="acuity" >}}
 - {{< hoverImageLink href="/projects/caeli" text="an automotive pollution capture device" project="caeli" >}}
 - {{< hoverImageLink href="/projects/blackops" text="building automation tools for a black founders fund" project="blackops" >}}
 - {{< hoverImageLink href="/projects/gis" text="a map for san diegans to find their city councilperson" project="gis" >}}
 - {{< hoverImageLink href="/projects/ecobox" text="eco friendly home products subscription box" project="ecobox" >}}
+- {{< hoverImageLink href="/projects/dorabot" text="an arduino dora-bot to teach kids 3d printing" project="dorabot" >}}
+- {{< hoverImageLink href="/projects/navwar" text="sensor-based contract tracing on navy ships" project="navwar" >}}
+- {{< hoverImageLink href="/projects/latam" text="a service to collect trash in south american communities" project="latam" >}}
+- {{< hoverImageLink href="/projects/env" text="environmental work" project="env" >}}
+- {{< hoverImageLink href="/projects/misc" text="other projects" project="misc" >}}
+---
+- {{< hoverImageLink href="/projects/portfolio" text="this portfolio" project="portfolio" >}}
+- {{< hoverImageLink href="/nadav" text="read more about me" project="nadav" >}}
+
 
 {{< rawhtml >}}
       <img src="me.png"

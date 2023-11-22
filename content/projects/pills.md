@@ -10,16 +10,24 @@ I kept noticing my dad would drop his pills, strain to reach down and pick up th
 
 I built a bottle topper that poured the right amount of pills per shake, preventing him from having to reach down and hurt his back anymore. After trying various designs, modeling for the fall rate, and interviewing users with tremors, I made a paper version of the design and made it public for anyone to print & use.
 
-![image-20231120215954073](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120215954073.png)
+### Takeaways
+- Qualitative interviews take time but the effort-to-reward ratio is high given the themes that pop up through conversation and interaction.
+- It's okay to try and fail. I tried over 40 models and many didn't let any pills out (or let out too many, or pills would get stuck and I wasted a day). But it's not a waste if it's data toward the next design.
 
-![image-20231120220119069](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220119069.png)
+![two pill bottles with pill toppers inserted into each. each bottle's pills are shown next to the bottle.](/projects/pills/pill_comparison.png)
+*i dynamically edited the model to fit various pill shapes and bottle sizes.* 
 
-![image-20231120220421170](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220421170.png)
+![a 3 by 3 matrix of different style models that were proposed and tested.](/projects/pills/pill_models.png)
+*i tried over 40 different design styles to see which were the most user-friendly and effective.*
 
-![image-20231120220452811](C:\Users\nadav\AppData\Roaming\Typora\typora-user-images\image-20231120220452811.png)
+![a user story was developed for a tremor patient looking for support with dropping their medication.](/projects/pills/pill_user.png)
+*i developed a user story for the tremor patient to unify varying qualitative interviews toward quantitative metrics.*
 
-![I designed the models in SolidWorks and used global variables to produce different caps for different pill bottle and pill sizes](/projects/pills/pill_dimensions.png)
+![a spreadsheet of various dimensions that could be dynamically edited.](/projects/pills/pill_dimensions.png)
+*i designed the models in solidWorks and used global variables to produce different caps for different pill bottle and pill sizes.*
 
-![I used a 3D pen to make changes to 3D printed models, saving model time & plastic for medium-fidelity trials](/projects/pills/pill_pen.png)
+![a bottle cap with red 3d-printed ink on top.](/projects/pills/pill_pen.png)
+*i used a 3d pen to make changes to 3d printed models, saving model time & plastic for medium-fidelity trials.*
 
-![a lego-inspired printout for anyone to make their own pill topper for the BRILINTA medication](/projects/pills/pill_lego.png)
+![a printout design specification sheet for people to print at home. it shows how to cut and fold the design.](/projects/pills/pill_lego.png)
+*a lego-inspired printout for anyone to make their own pill topper for the BRILINTA medication*
