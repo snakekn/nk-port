@@ -29,7 +29,9 @@ I love minimalism in design, and think a well-placed item in an empty field says
 
 Hugo uses partial layout files that you can easily customize to fit your flow. Black and white avoids the distraction of selecting the best color scheme, and the side panel reminds the reader of the goal: to review my (Nadav's) application to graduate studies in design. Only having needed elements helps screen readers parse relevant information for accessibility.
 
-Total, I spent ~12 hours on this website. I'll review each page's usability & visibility, then head back to essay writing. 
+I built a hover function that lets you view images related to a project before clicking through, ensuring that the minimalist design doesn't compromise the portfolio's ability to showcase work compared to other visually appealing, modern styles.
+
+Total, I spent ~13 hours on this website. I'll review each page's usability & visibility, then head back to essay writing. 
 
 **Thanks for visiting!**
 
@@ -38,3 +40,6 @@ Total, I spent ~12 hours on this website. I'll review each page's usability & vi
 
 ![a screenshot of the netlify backend](/projects/port/netlify.png)
 *with a bit of code, netlify makes it easy to host websites and keep them updated. i didn't spend any money on this project.*
+
+![a screenshot of the hover function](/projects/port/hover.png)
+*i used js & css to create an image carousel whenever you hovered over specific links on the main page. merging markdown with html concepts was fascinating to work with.*
