@@ -33,7 +33,7 @@ Not many people used it (I didn't market it outside my friends), but it was grea
 ![a graph showing an uptick in users.](/projects/journi/usercount.png)
 *journi wasn't marketed, but popularity among my friends, mostly 20-somethings, picked up over time and hype.*
 
-![a graph showing an increase in wordcount](/projects/journi/wordcount.png)
+![a graph showing an increase in word count](/projects/journi/wordcount.png)
 *more users were progressively sending longer daily journals as they kept using journi, a metric i used for engagement.*
 
 ![the journi logo, offering introspection via text.](/projects/journi/logo.png)

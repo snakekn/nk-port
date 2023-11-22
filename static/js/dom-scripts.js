@@ -17,17 +17,7 @@
   })
 }());
 
-/* Menu button */
-(function () {
-  var button = document.getElementById('menu-button');
-  if (button) {
-    var menu = document.getElementById('patterns-list');
-    button.addEventListener('click', function() {
-      var expanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', !expanded);
-    })
-  }
-}());
+
 
 /* Persist navigation scroll point */
 (function () {
@@ -96,20 +86,21 @@
 }());
 
 /* Switch and persist theme */
+/* Removed because it kept breaking and I hit my timebox :( */
 (function () {
-  var checkbox = document.getElementById('themer');
+  var checkbox = document.getElementById('darkTheme');
 
   function persistTheme(val) {
     localStorage.setItem('darkTheme', val);
   }
 
   function applyDarkTheme() {
-    var darkTheme = document.getElementById('themer');
+    var darkTheme = document.getElementById('darkTheme');
     darkTheme.disabled = false;
   }
 
   function clearDarkTheme() {
-    var darkTheme = document.getElementById('themer');
+    var darkTheme = document.getElementById('darkTheme');
     darkTheme.disabled = true;
   }
 

@@ -5,20 +5,59 @@ journi:
   - /usercount.png
   - /weeklyentries.png
 pills:
+  - /pill_comparison.png
   - /pill_openpaper.png
   - /pill_pen.png
   - /pill_user.png
-  - /pill_comparison.png
-  - /pill_dimensions.png
-  - /pill_lego.png
   - /pill_models.png
 caeli:
-  - 
+  - /logo.png
+  - /system.png
+  - /height.png
+  - /tires.png
+  - /concept.png
 gis:
-  -
+  - /map.png
 ecobox:
-  -
-acuity:
-  -
+  - /toilet.png
+  - /tissues.png
+  - /mk.png
+  - /box.png
 blackops:
   - /automation.png
+  - /form.png
+nadav: 
+  - /scones.png
+  - /candle.png
+  - /music.png
+  - /sand.png
+port:
+  - /realtime.png
+  - /netlify.png
+torus:
+  - /logo.png
+  - /design.png
+  - /tech.png
+dorabot:
+  - /final.png
+  - /drawing.png
+  - /doll.png
+  - /wires.png
+env:
+  - /donate.png
+  - /biochar.png
+  - /indoor.png
+  - /research.png
+latam:
+  - /logo.png
+  - /posts.png
+  - /demo.png
+  - /board.png
+misc:
+  - /balance.png
+  - /guitar.png
+  - /vegan.png
+  - /ideation.png
+  - /tomato.png
+  - /cleanup.png
+  - /rfid.png

@@ -9,7 +9,7 @@ During ME 10 (ME Design), engineering students partnered with 5th graders to co-
 
 We sat down and talked about the kind of robot we should make. One of the kids was a bit more shy, so I led-by-example that all ideas are good and fun, and these 3 boys were sharing ideas all over the place. We finally decided to make a dancing Dora the Explorer robot.
 
-I wish I had photos of these kids. They were so adorable to work with. We co-designed robot pieces on Solidworks for laser etching on acrylic while I worked on the energy analysis and circuitry during my coursework. I'll never forget the awe on their faces when they saw the whole model come together. 
+I wish I had photos of these kids. They were so adorable to work with. We co-designed robot pieces on SolidWorks for laser etching on acrylic while I worked on the energy analysis and circuitry during my coursework. I'll never forget the awe on their faces when they saw the whole model come together. 
 
 ### Takeaways
 - Designing the participation experience is just as important as designing the product. There's always a way to help others get more involved.

@@ -24,12 +24,12 @@ With the right tools given to the right people, humanity can find harmony with o
 - {{< hoverImageLink href="/projects/gis" text="a map for san diegans to find their city councilperson" project="gis" >}}
 - {{< hoverImageLink href="/projects/ecobox" text="eco friendly home products subscription box" project="ecobox" >}}
 - {{< hoverImageLink href="/projects/dorabot" text="an arduino dora-bot to teach kids 3d printing" project="dorabot" >}}
-- {{< hoverImageLink href="/projects/navwar" text="sensor-based contract tracing on navy ships" project="navwar" >}}
+- {{< hoverImageLink href="/projects/navwar" text="sensor-based contract tracing on navy ships" project="torus" >}}
 - {{< hoverImageLink href="/projects/latam" text="a service to collect trash in south american communities" project="latam" >}}
 - {{< hoverImageLink href="/projects/env" text="environmental work" project="env" >}}
 - {{< hoverImageLink href="/projects/misc" text="other projects" project="misc" >}}
 ---
-- {{< hoverImageLink href="/projects/portfolio" text="this portfolio" project="portfolio" >}}
+- {{< hoverImageLink href="/projects/portfolio" text="this portfolio" project="port" >}}
 - {{< hoverImageLink href="/nadav" text="read more about me" project="nadav" >}}
 
 

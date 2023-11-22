@@ -4,7 +4,7 @@ date = 2023-11-20T21:27:10-08:00
 draft = false
 +++
 
-COVID began and I was living at home for most of 2020. My dad had suffered a heart attack at the end of 2019 and was just starting to get used to his pill routine (well, my mom took a pretty active role in making sure he didn't skip or forget about any of his meds).
+COVID began and I was living at home for most of 2020. My dad had suffered a heart attack at the end of 2019 and was just starting to get used to his pill routine (well, my mom took a pretty active role in making sure he didn't skip or forget about any of his medications).
 
 I kept noticing my dad would drop his pills, strain to reach down and pick up the small pieces, and try to put the pills back (which would cause him to drop some more). With a bad back and hip, this infuriated me. The pills are so small and easy to swallow he can't get the right amount out! I wanted my dad to flip his bottle over and get the exact amount of pills he needed right into his hand.
 

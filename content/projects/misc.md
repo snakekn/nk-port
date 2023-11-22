@@ -11,7 +11,7 @@ draft = false
 *a new friend & i organized and promoted a beach cleanup when we studied abroad, then tracked the time it took for the beach to become dirty again. the south china sea is highly impacted by global trade and waste mismanagement.*
 
 ![the internal components of an electric guitar.](/projects/misc/guitar.png)
-*upgrading the electronics on my friend's guitar after we [hydrodipped](https://www.instructables.com/Hydro-Dip-Painting/) it to create a seafoam design.*
+*upgrading the electronics on my friend's guitar after we [hydrodipped](https://www.instructables.com/Hydro-Dip-Painting/) it to create a aqua-blue design.*
 
 ![an arduino module with wires is shown.](/projects/misc/wifi.png)
 *this arduino module was connected to an online server via wifi to change how the motor acted.*

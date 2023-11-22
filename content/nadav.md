@@ -22,14 +22,14 @@ I'm dedicated to the [problem of climate change](https://80000hours.org/problem-
 6. I've journaled for 2,000 consecutive days, one page a day. I also built a text service ([journi](/projects/journi)) to help others practice introspection.
 
 ### other tidbits
-![spotify wrapped screenshot showing nadav listened to over 113,030 minutes of music in 2022.](/projects/misc/music.png)
+![spotify wrapped screenshot showing nadav listened to over 113,030 minutes of music in 2022.](/projects/nadav/music.png)
 *music powers my day. i spent 21.5% of 2022 listening to music, how about you?*
 
-![a candle made of colorful glass shards.](/projects/misc/candle.png)
+![a candle made of colorful glass shards.](/projects/nadav/candle.png)
 *i recently broke some glass and wasn't sure what to do with it. i love tie-dying clothes so i tie-dyed the broken glass shards and made a candle out of them.*
 
-![a pan full of pumpkin scones.](/projects/misc/)
+![a pan full of pumpkin scones.](/projects/nadav/scones.png)
 *i've also gotten into baking. my dad requested pumpkin scones in appreciation of the fall pumpkin season*
 
-![nadav strapped into a snowboard ready to go down a sand dune.](/projects/misc/sand.png)
+![nadav strapped into a snowboard ready to go down a sand dune.](/projects/nadav/sand.png)
 *call me silly or my ideas crazy, just don't call me away from nature. death valley, 2021.*
