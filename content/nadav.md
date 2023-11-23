@@ -12,14 +12,15 @@ I leverage the tools (or superpowers) of [intentionality](https://medium.com/the
 
 I'm dedicated to the [problem of climate change](https://80000hours.org/problem-profiles/climate-change/) and believe our actions today will determine the ability of future societies and species to live with reduced [unchosen suffering](https://www.youtube.com/watch?v=1AqUYejDdmU).
 
-### fun facts
+### fun facts about me
 
-1. I grew up in San Diego, CA.
-2. I love sports that get me outdoors & using my brain: climbing, surfing, snowboarding.
-3. Writer of the weekly published [Life of Pratice](https://lifeofpractice.substack.com), discussing opportunities to practice who we want to be rather than expecting ourselves to reach a goal and be happy.  
-4. Traveled to over 20 countries. Only 1 kicked me out (but many deal with democracy-related protests, which may be part of why I chose to travel there).
-5. I'm working on an educational series to connect communities with fungal-based empowerment tools to clean up toxic waste and Superfund sites.
-6. I've journaled for 2,000 consecutive days, one page a day. I also built a text service ([journi](/projects/journi)) to help others practice introspection.
+1. grew up in San Diego, CA.
+2. love sports that get me outdoors & using my brain: climbing, surfing, snowboarding.
+3. writer of the weekly published [Life of Pratice](https://lifeofpractice.substack.com), discussing opportunities to practice who we want to be rather than expecting ourselves to reach a goal and be happy.  
+4. traveled to over 20 countries. Only 1 kicked me out (but many deal with democracy-related protests, which may be part of why I chose to travel there).
+5. working on an educational series to connect communities with fungal-based empowerment tools to clean up toxic waste and Superfund sites.
+6. journaled for 2,000 consecutive days, one page a day. I also built a text service ([journi](/projects/journi)) to help others practice introspection.
+7. believe the compass is one of the coolest designs as it has kept its overall form for centuries.
 
 ### other tidbits
 ![spotify wrapped screenshot showing nadav listened to over 113,030 minutes of music in 2022.](/projects/nadav/music.png)
@@ -29,7 +30,8 @@ I'm dedicated to the [problem of climate change](https://80000hours.org/problem-
 *i recently broke some glass and wasn't sure what to do with it. i love tie-dying clothes so i tie-dyed the broken glass shards and made a candle out of them.*
 
 ![a pan full of pumpkin scones.](/projects/nadav/scones.png)
-*i've also gotten into baking. my dad requested pumpkin scones in appreciation of the fall pumpkin season*
+*i've also gotten into baking. my dad requested pumpkin scones in appreciation of the fall pumpkin season.*
 
 ![nadav strapped into a snowboard ready to go down a sand dune.](/projects/nadav/sand.png)
-*call me silly or my ideas crazy, just don't call me away from nature. death valley, 2021.*
+*call me silly or my ideas crazy, just don't call me away from nature.* 
+*death valley, 2021.*

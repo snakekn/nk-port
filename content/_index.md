@@ -12,7 +12,9 @@ draft = false
 
 {{< /rawhtml >}}
 
-I'm applying to graduate schools to improve my engineering and design skills so I can apply them to climate change problems and improve quality of (all) life. 
+Passionate about improving quality of (all) life, focused on climate change and nature-based engineering solutions.
+
+I'm seeking opportunities to improve my engineering and design skills to become a stronger leader / builder / activist.
 
 With the right tools given to the right people, humanity can find harmony with ourselves and our environment.
 
@@ -21,8 +23,8 @@ With the right tools given to the right people, humanity can find harmony with o
 - {{< hoverImageLink href="/projects/pills" text="a pill topper for tremor patients" project="pills" >}}
 - {{< hoverImageLink href="/projects/caeli" text="an automotive pollution capture device" project="caeli" >}}
 - {{< hoverImageLink href="/projects/blackops" text="building automation tools for a black founders fund" project="blackops" >}}
-- {{< hoverImageLink href="/projects/gis" text="a map for san diegans to find their city councilperson" project="gis" >}}
-- {{< hoverImageLink href="/projects/ecobox" text="eco friendly home products subscription box" project="ecobox" >}}
+- {{< hoverImageLink href="/projects/gis" text="a map for san diegans to find their city councilmember" project="gis" >}}
+- {{< hoverImageLink href="/projects/ecobox" text="eco-friendly home products subscription box" project="ecobox" >}}
 - {{< hoverImageLink href="/projects/dorabot" text="an arduino dora-bot to teach kids 3d printing" project="dorabot" >}}
 - {{< hoverImageLink href="/projects/navwar" text="sensor-based contract tracing on navy ships" project="torus" >}}
 - {{< hoverImageLink href="/projects/latam" text="a service to collect trash in south american communities" project="latam" >}}

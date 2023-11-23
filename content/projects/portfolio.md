@@ -29,6 +29,8 @@ I love minimalism in design, and think a well-placed item in an empty field says
 
 Hugo uses partial layout files that you can easily customize to fit your flow. Black and white avoids the distraction of selecting the best color scheme, and the side panel reminds the reader of the goal: to review my (Nadav's) application to graduate studies in design. Only having needed elements helps screen readers parse relevant information for accessibility.
 
+I chose to keep my captions in lowercase to keep them more informal and friendly, while my project introductions kept conventional sentence capitalization. I believe the process of design is an inherently non-traditional process, and we must be willing to think outside of convention to make new designs. 
+
 I built a hover function that lets you view images related to a project before clicking through, ensuring that the minimalist design doesn't compromise the portfolio's ability to showcase work compared to other visually appealing, modern styles.
 
 Total, I spent ~13 hours on this website. I'll review each page's usability & visibility, then head back to essay writing. 
