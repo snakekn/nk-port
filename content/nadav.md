@@ -14,13 +14,13 @@ I'm dedicated to the [problem of climate change](https://80000hours.org/problem-
 
 ### fun facts about me
 
-1. grew up in San Diego, CA.
-2. love sports that get me outdoors & using my brain: climbing, surfing, snowboarding.
-3. writer of the weekly published [Life of Pratice](https://lifeofpractice.substack.com), discussing opportunities to practice who we want to be rather than expecting ourselves to reach a goal and be happy.  
-4. traveled to over 20 countries. Only 1 kicked me out (but many deal with democracy-related protests, which may be part of why I chose to travel there).
-5. working on an educational series to connect communities with fungal-based empowerment tools to clean up toxic waste and Superfund sites.
-6. journaled for 2,000 consecutive days, one page a day. I also built a text service ([journi](/projects/journi)) to help others practice introspection.
-7. believe the compass is one of the coolest designs as it has kept its overall form for centuries.
+1. Grew up in San Diego, CA.
+2. Love sports that get me outdoors & using my brain: climbing, surfing, snowboarding.
+3. Writer of the weekly published [Life of Pratice](https://lifeofpractice.substack.com), discussing opportunities to practice who we want to be rather than expecting ourselves to reach a goal and be happy.  
+4. Traveled to over 20 countries. Only 1 kicked me out (but many deal with democracy-related protests, which may be part of why I chose to travel there).
+5. Working on an educational series to connect communities with fungal-based empowerment tools to clean up toxic waste and Superfund sites.
+6. Journaled for 2,000 consecutive days, one page a day. I also built a text service ([journi](/projects/journi)) to help others practice introspection.
+7. Believe the compass is one of the coolest designs as it has kept its overall form for centuries.
 
 ### other tidbits
 ![spotify wrapped screenshot showing nadav listened to over 113,030 minutes of music in 2022.](/projects/nadav/music.png)
